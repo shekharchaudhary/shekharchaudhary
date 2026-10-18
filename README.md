@@ -15,7 +15,7 @@ My current focus is learning how to determine whether AI systems actually work: 
 
 I am building a public, evidence-first learning record around AI evaluation. Rather than presenting polished conclusions too early, I will publish hypotheses, datasets, rubrics, experiments, negative results, and changes in my understanding.
 
-### What I will study
+### What I am researching
 
 - **LLM-as-judge reliability:** position bias, verbosity bias, score stability, rubric sensitivity, and agreement with human labels
 - **RAG evaluation:** separating retrieval failures from generation failures; measuring context relevance, answer correctness, citation support, and appropriate abstention
